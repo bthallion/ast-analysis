@@ -1,0 +1,27 @@
+{
+  "name": "ast-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "diff": "^3.2.0",
+    "esprima": "^3.1.3",
+    "ndarray": "^1.0.18",
+    "uglify": "^0.1.5",
+    "vinyl-fs": "^2.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutkh/ast-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutkh/ast-analysis/issues"
+  },
+  "homepage": "https://github.com/sutkh/ast-analysis#readme"
+}
